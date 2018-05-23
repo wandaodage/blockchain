@@ -23,9 +23,11 @@ Step1: Prepare development environment
 	pipenv install requests
 ###  
  	pipenv install flask
-### 
-	Step2: Create blockchain.py
-### 
+
+Step2: Create blockchain.py
+=================
+
+###
 	mkdir blockchain
 ###  
 	cd blockchain/
